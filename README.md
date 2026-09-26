@@ -1,4 +1,4 @@
-## Large Thin Wrapper
+## Small Thin Wrapper
 A thin OpenGL core-to-OpenGL ES wrapper, primarily intended for running Minecraft.
 
 # Building
